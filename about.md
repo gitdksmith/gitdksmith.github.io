@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am a CS student at the Unversity of Texas at Austin. 
+I am also an officer of the ISSS club within the department and am currently a student employee at ARL UT.
+Fall 2015 will be my final semester.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dksmith_89@yahoo.com](mailto:dksmith_89@yahoo.com)
