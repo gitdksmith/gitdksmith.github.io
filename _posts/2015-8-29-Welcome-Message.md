@@ -1,5 +1,5 @@
 ---
-layout: hydra
+layout: post
 title: Welcome Message
 ---
 
