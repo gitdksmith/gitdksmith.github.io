@@ -3,9 +3,9 @@ layout: default
 ---
 
 <div class="secposts">
-hello world 4
+hello world 5
   {% for post in site.secposts %}
-  
+  <p>here</p>
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -17,4 +17,5 @@ hello world 4
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
+  down here
 </div>
