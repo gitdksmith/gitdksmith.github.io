@@ -10,4 +10,4 @@ Fall 2015 will be my final semester.<br>
 
 ### Contact me
 
-[dksmith_89@yahoo.com](mailto:dksmith_89@yahoo.com)
+dksmith_89 at yahoo dot com
